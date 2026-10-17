@@ -21,7 +21,7 @@ Backend-focused engineer with **7+ years** building production Java/Spring Boot 
 - 🧑‍🤝‍🧑 Previously team lead for **6–10 engineers** at [Zaag Systems](https://zaagsys.com), building a pharmacy ERP now serving **700+ branches**
 - 🤖 Currently building an **Enterprise RAG Platform** with Spring AI and pgvector *(repo going public soon)*
 - 🌱 Always learning: **RAG with Spring AI** (re-ranking, agentic RAG, retrieval evaluation), **AWS**, Kubernetes and observability with OpenTelemetry
-- 💬 Ask me about: microservices, Kafka/RabbitMQ, query tuning, multi-tenant SaaS, Keycloak/OAuth 2.0, Spring AI
+- 💬 Ask me about: **Java & Spring Boot**, **microservices & REST APIs**, **event-driven systems** (Kafka, RabbitMQ), **database design & performance** (SQL/NoSQL, Redshift), **application security** (pentests, SSO, OAuth 2.0), **multi-tenant SaaS**, **RAG with Spring AI**, and **leading engineering teams**
 
 ---
 
