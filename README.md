@@ -2,6 +2,7 @@
 <p align="center"><b>Senior Software Engineer (Backend)</b> · Java · Spring Boot · Microservices · Kafka · AWS · Spring AI / RAG</p>
 
 <p align="center">
+  <a href="https://shamim.fyi"><img src="https://img.shields.io/badge/Portfolio-shamim.fyi-163A5F?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/3-shamim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mdshamim723@gmail.com"><img src="https://img.shields.io/badge/Email-mdshamim723%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/mdshamim723/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
@@ -103,4 +104,4 @@ Competitive programmer focused on data structures and algorithms —
 
 ---
 
-<p align="center"><i>Open to backend / senior software engineering roles — remote or relocation. Let's connect on <a href="https://www.linkedin.com/in/3-shamim">LinkedIn</a>.</i></p>
+<p align="center"><i>Open to backend / senior software engineering roles — remote or relocation. Let's connect on <a href="https://www.linkedin.com/in/3-shamim">LinkedIn</a> or visit my <a href="https://shamim.fyi">portfolio</a>.</i></p>
